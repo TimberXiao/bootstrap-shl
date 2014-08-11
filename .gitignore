@@ -40,3 +40,9 @@ validation-report.json
 # Folders to ignore
 node_modules
 bower_components
+
+# SHL excludes
+*.min.css
+*.min.js
+less/shl.less
+
